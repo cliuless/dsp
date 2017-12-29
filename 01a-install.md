@@ -49,7 +49,7 @@ However, this is completely optional as Anaconda is an all-in-one package manage
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> Installed Python 3 since Python 2 already comes pre-installed on my mac
 
 ### Q2. Which Python Version Installed   
 
