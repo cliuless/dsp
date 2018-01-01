@@ -30,7 +30,8 @@ rm | deleting a file
 mv [options] <source> <destination> | renaming a file
 ls -a | listing hidden files
 cp [options] <source> <destination> | copying a file from one directory to another
-
+man <directory> | check manual for said command
+file <directory> | check type of file (can be combined with wildcard)
 
 ---
 
