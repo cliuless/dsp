@@ -68,7 +68,12 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 
 What does `xargs` do? Give an example of how to use it.
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+
+_tool used to run a particular command for every item in a list_
+
+'
+basename -s .JPG -a *.JPG | xargs -n1 -i mv {}.JPG {}.jpg
+'
 
  
 
