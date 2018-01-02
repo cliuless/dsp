@@ -45,7 +45,7 @@ Command | Description
 `ls -a` | list directory contents with hidden files 
 `ls -l` | list directory contents with total sum for all file sizes outputted
 `ls -lh`| list directory with file sizes and unit size
-`ls -lah' | list directory with hidden files and file sizes and their unit sizes
+`ls -lah` | list directory with hidden files and file sizes and their unit sizes
 `ls -t` | list directory sorted by Time
 `ls -Glp` | slash added in front of filename if file is a directory
 
@@ -56,7 +56,11 @@ Command | Description
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+* `ls -R` displays subdirectories
+* `ls -m` displays names as comma separated list
+* `ls -d` display only directories
+* `ls -p` displays directories with /
+* `ls -q` displays nonprinting characters as ?
 
 ---
 
