@@ -38,15 +38,15 @@ file <directory> | check type of file (can be combined with wildcard)
 ### Q2.  List Files in Unix   
 
 What do the following commands do:  
-Command | Description
-:------: | :----------
-`ls`    | list directory contents
-`ls -a` | list directory contents with hidden files 
-`ls -l` | list directory contents with total sum for all file sizes outputted
-`ls -lh`| list directory with file sizes and unit size 
-`ls -lah' | list directory with hidden files and file sizes and their unit sizes
-`ls -t` | list directory sorted by Time
-`ls -Glp` | slash added in front of filename if file is a directory
+|Command | Description|
+|:------: | :----------|
+|`ls`    | list directory contents|
+|`ls -a` | list directory contents with hidden files |
+|`ls -l` | list directory contents with total sum for all file sizes outputted|
+|`ls -lh`| list directory with file sizes and unit size| 
+|`ls -lah' | list directory with hidden files and file sizes and their unit sizes|
+|`ls -t` | list directory sorted by Time|
+|`ls -Glp` | slash added in front of filename if file is a directory|
 
 
 ---
